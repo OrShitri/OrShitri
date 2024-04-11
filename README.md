@@ -8,7 +8,7 @@
 
 <h3>Data Base</h3>
     <div>
-        <span><img src="https://miro.medium.com/v2/resize:fit:402/1*KTDZHTVaVbvbyhIf2PmBAw.png" width="48" height="48"/></span>
+        <span><img src="https://miro.medium.com/v2/resize:fit:402/1*KTDZHTVaVbvbyhIf2PmBAw.png" width="58" height="58"/></span>
         <!--<span><img src="https://skillicons.dev/icons?i=sqlite" /></span>
         <span><img src="https://www.aegissoftwares.com/images/head_banner/sql-sds.webp" width="48" height="48"/></span>-->
     </div>
